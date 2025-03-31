@@ -23,5 +23,5 @@ its a simulation for 2x2 cube for vis and making a simple ai to solve it
 ## Quick Start
 ```console
 $ cmake .
-$ make ; ./main
+$ make ; ./cubic
 ```
